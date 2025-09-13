@@ -1,2 +1,2 @@
-# Doctoe-Appointment-App
+# Doctor-Appointment-App
 Responsive project made using MERN Stack
